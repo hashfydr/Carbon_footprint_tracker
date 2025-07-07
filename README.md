@@ -42,7 +42,7 @@ A React-based web application to track daily carbon footprint across transportat
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/hashfydr/Carbon_footprint_tracker/-tracker.git
+git clone https://github.com/hashfydr/Carbon_footprint_tracker.git
 cd carbon-footprint-tracker
 ```
 
